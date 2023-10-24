@@ -1,0 +1,34 @@
+
+.boxmycard1{
+background-color: aqua;
+    height: 80px;
+    width: 1500px;
+    margin-top: 0rem;
+    text-align: left;
+    
+}
+.boxmycard2{
+    background-color: rgb(38, 169, 169);
+        height: 600px;
+        width: 1500px;
+        margin-top: 0rem;
+    }
+
+.btnc1{
+    
+    background-color: rgb(223, 161, 86 );
+    width: 80px;
+    height: 40px;
+    margin-left: 76rem;
+    margin-top: 0rem;
+
+}
+.btnc2{
+
+    background-color:rgb(223, 161, 86);
+    width: 80px;
+    height:40px;
+    margin-left: 5rem;
+    margin-top: 0rem;
+
+}

@@ -1,0 +1,86 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    width: 80vw;
+    height: 80vh;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px grey;
+    background: rgb(240, 207, 207);
+    position: relative
+}
+
+.homepage > .button {
+   height: 3rem;
+   width: 12rem;
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 2.5rem 1;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+.button1{
+    text-align: center;
+    height: 3rem;
+   width: 12rem;
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #9b3333;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.head{
+    margin-bottom: 2rem;
+    margin-left: 17rem;
+
+}
+
+
+.btn1{
+    
+    background-color: bisque;
+    width: 120px;
+    height: 100px;
+    margin-left: 1rem;
+    margin-top: 4rem;
+
+}
+.btn2{
+
+    background-color:bisque;
+    width: 120px;
+    height:100px;
+    margin-left: 15rem;
+    margin-top: 4rem;
+
+}
+
+.btn3{
+    background-color:bisque;
+    width: 120px;
+    height: 100px;
+    margin-left: 20rem;
+    margin-top: 4rem;
+    margin-right: 1rem;
+
+}
+.btn1:hover{
+    border: 3px solid #777;
+
+}.btn2:hover{
+    border: 3px solid #777;
+
+}.btn3:hover{
+    border: 3px solid #777;
+
+}
